@@ -34,3 +34,4 @@ double operator*(Wektor2D v1, Wektor2D v2)
     scalar = v1.getX() * v2.getX() + v1.getY() * v2.getY();
     return scalar;
 };
+// Sprawdziæ czy dzia³a wysy³anie z Visual
